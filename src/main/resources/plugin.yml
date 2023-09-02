@@ -1,0 +1,3 @@
+name: ShulkMenot
+version: '${project.version}'
+main: org.github.shulkmenot.ShulkMenot
